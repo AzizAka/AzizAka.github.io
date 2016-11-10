@@ -1,0 +1,153 @@
+body {
+		background:url(images/fon.png)
+}
+button{ background: linear-gradient(to top, white, gray);
+      
+        border: 1px;
+		font-size: 40px;
+		font-family: Broadway, Arial black;
+		font-weight: 600;
+		border-radius: 15px;
+		
+}
+
+button:hover{
+	background: linear-gradient(to bottom, red, white);
+}#all{
+	width:1280px;
+}
+#buttons{
+	height: 250px;
+	width:1280px;
+	
+}
+#home{
+	float:left;
+	margin-left: 25%;
+}
+#movies{
+	float:right;
+	margin-right: 25%;
+}
+#info{width: 500px;
+margin-left:30%;
+	text-align:center;
+	float:left;
+}
+
+#photo {
+	margin-left:33%;
+	margin-right:33%;
+	height: 350px;
+	width:350px;
+}
+
+#h1movie{
+	border-radius: 30px;
+	background: linear-gradient(to top, black, gray);
+	
+	
+	
+	
+	
+}
+
+h1{
+	font-size: 45px;
+	font-family: Arial black, calibri;
+	font-weight: 650;
+	color: white;
+}
+
+
+p{
+		font-size: 20px;
+	font-family: Arial black, calibri;
+}
+
+
+
+h2{
+	background: linear-gradient(to top, black, gray);
+	font-size: 40px; 
+	color: aquamarine;
+	border-radius: 40px;
+	
+}
+
+
+#name{
+	
+	background: linear-gradient(to top, red, black);
+	border-radius: 40px;
+	text-shadow: 4px 3px 0px red, 9px 8px 0px rgba(0,0,0,0.15);
+	
+}
+
+
+#name:hover{
+	
+	background: linear-gradient(to top, red, white);
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#name1{
+	
+	background: linear-gradient(to top, red, white);
+	border-radius: 40px;
+	text-shadow: 4px 3px 0px red, 9px 8px 0px rgba(0,0,0,0.15);
+	
+}
+
+
+#name1:hover{
+	
+	background: linear-gradient(to bottom, red, black);
+	
+	
+}
+
+
+
+
+
+
+
+
+a.idTop {
+ position: fixed; 
+ z-index: 999; 
+ bottom: 0%; 
+ right: 0%; 
+ background: black;
+ border-radius: 30px;
+ opacity: .8; 
+ color: white; 
+ padding: 10px; 
+ margin: 50px 150px 150px 50px; 
+}
+a.idTop:hover {
+ opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
